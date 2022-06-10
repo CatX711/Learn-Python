@@ -21,4 +21,12 @@
 
 - Writing Safer Python code
   * https://www.codiga.io/blog/secure-python-code-detect-cwe/ (Website has multiple trackers on it so be wary)
+  
+## Online Courses
+
+- https://www.edx.org/learn/python
+- https://pll.harvard.edu/subject/python
+- https://www.guru99.com/best-python-courses.html
+
+
 
