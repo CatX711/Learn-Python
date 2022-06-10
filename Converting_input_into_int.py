@@ -33,4 +33,11 @@ print("Your name is", input(), "!")
 print("Your number multiplied by two is: ", marmalade)
 
 # You should get this as your response:
-# Type a number: 
+# Type a number: 22
+# Your number multiplied by two is: 44
+
+# Full code:
+
+marmalade = input("Type a number: ")
+int(input())
+print("Your number multiplied by two is:", marmalade)
