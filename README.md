@@ -17,6 +17,8 @@
 - https://www.youtube.com/watch?v=rfscVS0vtbw
 - https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
+## Safer code
+
 - Writing Safer Python code
   * https://www.codiga.io/blog/secure-python-code-detect-cwe/ (Website has multiple trackers on it so be wary)
 
