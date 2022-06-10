@@ -12,4 +12,7 @@
 - https://www.youtube.com/watch?v=sxTmJE4k0ho
 - https://www.youtube.com/watch?v=DLn3jOsNRVE
 - https://www.youtube.com/watch?v=VchuKL44s6E
-- * Pygame in 90 mins - [Pygame] https://www.youtube.com/watch?v=jO6qQDNa2UY 
+- Pygame in 90 mins - https://www.youtube.com/watch?v=jO6qQDNa2UY
+- https://www.youtube.com/watch?v=CssrFJGH_dU
+- https://www.youtube.com/watch?v=rfscVS0vtbw
+- https://www.youtube.com/watch?v=_uQrJ0TkZlc
