@@ -17,7 +17,3 @@ len(sentence)
 print(len(sentence))
 
 # And your result will be the length of your string.
-
-
-
-                 
