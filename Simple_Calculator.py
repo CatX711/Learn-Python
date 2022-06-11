@@ -14,3 +14,10 @@ number1 = int(input("Enter your first number: "))
 number2 = int(input("Enter your second number: "))
 
 # This will convert whatever number you type from string into an integer.
+# After that, type "print" and inside the brackets, number1 + number 2
+# Then you can polish it off with some beginning text, and end text.
+
+print("Welcome, to the simple calculator! This calculator adds two numbers up together, and gives you your result.")
+number1 = int(input("Enter your first number: "))
+number2 = int(input("Enter your second number: "))
+print("Your number is: ", number1 + number2)
