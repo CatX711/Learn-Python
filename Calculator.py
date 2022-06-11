@@ -5,6 +5,28 @@
 selection = input("Select what to do (add/multiply/divide/subtract")
 
 # Then type if selection.lower() == "add":
-# There's a lot to unpack there, so I'll go over it now 
+# There's a lot to unpack there, so I'll go over it now. If, elif, and else, make the computer do something if it is true or false.
+# e.g:
+
+if 3 > 5:
+  print("Hello")
+elif 5 > 3:
+  print("World")
+  
+# The computer will always print "World", but if you say, three is greater than 5, things are different:
+
+3 > 5
+if  3 > 5:
+  print("Hello")
+elif 5 > 3:
+  print("World")
+
+# You'll probably notice that python throws all logic out of the window and prints "Hello", except, it doesn't. You tell the program that three is greater than five, so
+# going off of what you said, prints "Hello".
+
+# .lower() is easy to understand. Basically, it converts whatever you write into lowercase, so if your answer always had to be in lowercase, you 
+
+  
+  
                   
                   
