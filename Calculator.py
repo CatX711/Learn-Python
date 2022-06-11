@@ -2,7 +2,7 @@
 
 # Start off by creating a variable with a name called "selection", which equals and input.
 
-selection = input("Select what to do (add/multiply/divide/subtract")
+selection = input("Select what to do (add/multiply/divide/subtract)")
 
 # Then type if selection.lower() == "add":
 # There's a lot to unpack there, so I'll go over it now. If, elif, and else, make the computer do something if it is true or false.
@@ -38,12 +38,29 @@ else:
   
 # That is where else comes in. What ese does is checks if the user typed "bacon", or "sausages", and, if they typed something else like "black pudding", which is not a valid
 # option, it tells you that and ends the program.
+# Now we can finish our code:
 
-selection = input("Select what to do (add/multiply/divide/subtract")
-if selection == "add":
-  number1 = int(input("Enter your first number: ")
+
+selection = input("Select what to do (add/multiply/divide/subtract)")
+if selection.lower() == "add":
+    number1 = int(input("Enter your first number: "))
+    number2 = int(input("Enter your second number: "))
+    print("Your number is: ", number1 + number2)
+elif selection.lower() == "multiply": # Remember that the multiply symbol is an asteric (*)
+  number1 = int(input("Enter your first number: "))
   number2 = int(input("Enter your second number: "))
-  print("Your number is: ", number1 + number2)
+  print("Your number is: ", number1 * number2)
+elif selection.lower() == "divide": # Remember that the division symbol is a forward slash (/)
+    number1 = int(input("Enter your first number: "))
+    number2 = int(input("Enter your second number: "))
+    print("Your number is: ", number1 / number2) # Note that you can NEVER divide a number by 0. You get a ZeroDivisionError.
+elif selection.lower() == "subtract":
+    number1 = int(input("Enter your first number: "))
+    number2 = int(input("Enter your second number: "))
+    print("Your number is: ", number1 - number2)
+                
+                
+                
   
              
 
