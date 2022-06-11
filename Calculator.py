@@ -39,7 +39,11 @@ else:
 # That is where else comes in. What ese does is checks if the user typed "bacon", or "sausages", and, if they typed something else like "black pudding", which is not a valid
 # option, it tells you that and ends the program.
 
-
+selection = input("Select what to do (add/multiply/divide/subtract")
+if selection == "add":
+  number1 = int(input("Enter your first number: ")
+  number2 = int(input("Enter your second number: "))
+  print("Your number is: ", number1 + number2)
   
              
 
