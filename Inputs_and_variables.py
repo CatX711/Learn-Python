@@ -1,6 +1,6 @@
 # What is an input? What is a variable? All of those questions will be answered now.
 
-# An input is essentially a way to give the computer some numbers of text, and it will do things with that.
+# An input is essentially a way to give the computer some numbers or text, and it will do things with that.
 # Think of a variable as a box. You can assign names to this box, and this box can store things inside it, like text or numbers.
 
 # Here is an example using both of them:
@@ -13,5 +13,5 @@
 
 answer = input("What is your name? ")
 
-# The variable doesn't have to be called answer though it could be anything you want. It could be 'ice cream' or 'spam', 'eggs', or, my personal favourite, 'smelly_socks'
+# The variable doesn't have to be called answer though, it could be anything you want. It could be 'ice cream' or 'spam', 'eggs', or, my personal favourite, 'smelly_socks'
 # TIP : If you have two words in your variable name, don't use a space to seperate them, use an underscore. Like this: Spam_and_eggs
