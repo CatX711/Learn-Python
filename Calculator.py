@@ -63,15 +63,3 @@ else:
 
 # Now you're done! You've built your first calculator.
 # Have fun with it!
-
-
-                
-                
-                
-  
-             
-
-  
-  
-                  
-                  
