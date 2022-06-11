@@ -1,6 +1,6 @@
 # Things are getting real now. In this, you will make the calculator divide, subtract, add and multiply. And you get to choose which one you want it to do.
 
-# Start off by creating a variable with a name called "selection", which equals and input.
+# Start off by creating a variable with a name called "selection", which equals an input.
 
 selection = input("Select what to do (add/multiply/divide/subtract)")
 
@@ -25,7 +25,7 @@ elif 5 > 3:
 # going off of what you said, prints "Hello".
 
 # .lower() is easy to understand. Basically, it converts whatever you write into lowercase, so if your answer always had to be in lowercase, you would just type
-# .lower at the end of your variable name.
+# .lower() at the end of your variable name.
 # e.g:
 
 food = input("What do you want for breakfast today? (bacon/sausages)")
