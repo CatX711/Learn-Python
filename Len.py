@@ -4,3 +4,20 @@
 # Well, considering you now know inputs and variables, lets combine len with them to make a program that counts the characters in what you input.
 
 sentence = input("Enter a string. It can be as long or as short as you want (reminder: strings are collections of words or letters): ")
+
+# Next type, "len(sentence)"
+
+sentence = input("Enter a string. It can be as long or as short as you want (reminder: strings are collections of words or letters): ")
+len(sentence)
+
+# Then make the program print the length of what you input.
+
+sentence = input("Enter a string. It can be as long or as short as you want (reminder: strings are collections of words or letters): ")
+len(sentence)
+print(len(sentence))
+
+# And your result will be the length of your string.
+
+
+
+                 
