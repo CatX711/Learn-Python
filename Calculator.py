@@ -24,7 +24,21 @@ elif 5 > 3:
 # You'll probably notice that python throws all logic out of the window and prints "Hello", except, it doesn't. You tell the program that three is greater than five, so
 # going off of what you said, prints "Hello".
 
-# .lower() is easy to understand. Basically, it converts whatever you write into lowercase, so if your answer always had to be in lowercase, you 
+# .lower() is easy to understand. Basically, it converts whatever you write into lowercase, so if your answer always had to be in lowercase, you would just type
+# .lower at the end of your variable name.
+# e.g:
+
+food = input("What do you want for breakfast today? (bacon/sausages)")
+if food.lower() == "bacon":
+  print("Tasty!")
+elif food.lower() == "sausages":
+  print("Tasty!")
+else:
+  print("That is not a valid option.")
+  
+# That is where else comes in. What ese does is checks if the user typed "bacon", or "sausages", and, if it typed something else like "black pudding"  
+  
+             
 
   
   
