@@ -53,7 +53,7 @@ elif selection.lower() == "multiply": # Remember that the multiply symbol is an 
 elif selection.lower() == "divide": # Remember that the division symbol is a forward slash (/)
     number1 = int(input("Enter your first number: "))
     number2 = int(input("Enter your second number: "))
-    print("Your number is: ", number1 / number2) # Note that you can NEVER divide a number by 0. You get a ZeroDivisionError.
+    print("Your number is: ", number1 / number2) # Note that you can NEVER divide a number by 0. You will get a ZeroDivisionError, which basically shouts at you for doing so.
 elif selection.lower() == "subtract":
     number1 = int(input("Enter your first number: "))
     number2 = int(input("Enter your second number: "))
