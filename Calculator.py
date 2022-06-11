@@ -58,6 +58,13 @@ elif selection.lower() == "subtract":
     number1 = int(input("Enter your first number: "))
     number2 = int(input("Enter your second number: "))
     print("Your number is: ", number1 - number2)
+else:
+  print("Invalid option.")
+
+# Now you're done! You've built your first calculator.
+# Have fun with it!
+
+
                 
                 
                 
