@@ -36,7 +36,10 @@ elif food.lower() == "sausages":
 else:
   print("That is not a valid option.")
   
-# That is where else comes in. What ese does is checks if the user typed "bacon", or "sausages", and, if it typed something else like "black pudding"  
+# That is where else comes in. What ese does is checks if the user typed "bacon", or "sausages", and, if they typed something else like "black pudding", which is not a valid
+# option, it tells you that and ends the program.
+
+
   
              
 
