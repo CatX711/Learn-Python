@@ -1,4 +1,4 @@
-import pygame # carry on with tutorial: https://www.youtube.com/watch?v=jO6qQDNa2UY (47:22)
+import pygame  # carry on with tutorial: https://www.youtube.com/watch?v=jO6qQDNa2UY (47:22)
 import os
 
 WIDTH, HEIGHT = 900, 500
