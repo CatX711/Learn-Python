@@ -1,5 +1,4 @@
-# Go to test.py for the testing grounds for this game. Do updates in there
-# before copying them into here.
+# A game I made when expanding my Python knowledge, so it's on here.
 
 from time import sleep
 import random
