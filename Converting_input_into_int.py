@@ -17,7 +17,7 @@ print(int(input()) * 2)
 # 14
 
 # We can expand upon this, by adding text into our final print line.
-# In Python, different things can be seperated by a comma, so if you wanted to add text to a print function that repeats your name, it wuld look like this:
+# In Python, different things can be seperated by a comma, so if you wanted to add text to a print function that repeats your name, it would look like this:
 
 name = int(input("Type a name: "))
 print("Your name is", input(), "!")
